@@ -26,7 +26,7 @@ game = {
       steals: 12,
       blocks: 12,
       slam_dunks: 7
-     }
+      }
      ]
   },
   away: {
@@ -43,10 +43,9 @@ game = {
       steals: 2,
       blocks: 7,
       slam_dunks: 2
-     }
+      }
      ]
   }
-  binding.pry
-
 }
+binding.pry
 end
