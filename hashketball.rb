@@ -21,7 +21,7 @@ game = {
     team_name: "Charlotte Hornets",
    colors: ["Turquoise", "Purple"],
    players: [
-     {
+    "Jeff Adrien" => {
       player_name: "Jeff Adrien",
       number: 4,
       shoe: 18,
