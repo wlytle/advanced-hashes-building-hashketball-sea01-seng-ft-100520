@@ -36,5 +36,5 @@ game = {
      ]
   }
 }
-
+binding.pry
 end
