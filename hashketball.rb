@@ -1,12 +1,12 @@
 def game_hash
 game = {
   home: {
-   team_name: "",
-   colors: [],
+   team_name: "Brooklyn Nets",
+   colors: ["Black", "White"],
    players: [
      {
       player_name: "",
-      numer: "",
+      number: "",
       points: "",
       rebounds: "",
       assists: "",
@@ -22,7 +22,7 @@ game = {
    players: [
      {
       player_name: "",
-      numer: "",
+      number: "",
       points: "",
       rebounds: "",
       assists: "",
