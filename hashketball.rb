@@ -47,5 +47,4 @@ game = {
      ]
   }
 }
-binding.pry
 end
