@@ -16,7 +16,7 @@ game = {
       blocks: 1,
       slam_dunks: 1
      },
-     reggie_evans: {
+     {
       player_name: "Reggie Evans",
       number: 30,
       shoe: 14,
@@ -33,7 +33,7 @@ game = {
     team_name: "Charlotte Hornets",
    colors: ["Turquoise", "Purple"],
    players: [
-    "Jeff Adrien" => {
+     {
       player_name: "Jeff Adrien",
       number: 4,
       shoe: 18,
