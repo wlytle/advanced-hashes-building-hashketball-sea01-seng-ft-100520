@@ -16,7 +16,22 @@ game = {
      }
      ]
   },
-  away: {}
+  away: {
+    team_name: "",
+   colors: [],
+   players: [
+     {
+      player_name: "",
+      numer: "",
+      points: "",
+      rebounds: "",
+      assists: "",
+      steals: "",
+      blocks: "",
+      slam_dunks: ""
+     }
+     ]
+  }
 }
 
 end
