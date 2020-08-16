@@ -23,14 +23,14 @@ game = {
    players: [
      {
       player_name: "",
-      number: "",
+      number: ,
       shoe: ,
-      points: "",
-      rebounds: "",
-      assists: "",
-      steals: "",
-      blocks: "",
-      slam_dunks: ""
+      points: ,
+      rebounds: ,
+      assists: ,
+      steals: ,
+      blocks: ,
+      slam_dunks: 
      }
      ]
   }
